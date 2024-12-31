@@ -146,3 +146,7 @@ Plugins/**/Intermediate/*
 *.opendb
 Developer
 Content/ParagonGrux/
+Content/ParagonKhaimera/
+*.zip
+*.pdb
+*.ucas
